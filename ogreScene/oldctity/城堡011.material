@@ -1,0 +1,323 @@
+
+material 城堡011_material-02CCF89C
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.968627 0.94902 0.94902 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡011_dg_gnn_dai_02_2A00.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡011_material-030140BB
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1 
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡011_dg_gnn_yuka_01_11B00.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡011_material-020F8668
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1 
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡011_dg_gnn_tile_02_F180.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡011_material-011EF996
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡011_dg_gnn_arch_02_1500.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡011_material-001FE2D7
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1  
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡011_dg_gnn_arch_01_0.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡011_material-02DAA966
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1  
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡011_dg_gnn_kuda_01_6900.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡011_material-02E986EF
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1  
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡011_dg_gnn_waku_01_10B80.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡011_material-030B4694
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡011_dg_gnn_yuka_07_1C300.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡011_material-028BB9A8
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1 
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡011_dg_gnn_tile_03_10680.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡011_material-0216C64A
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1  
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡011_dg_gnn_carpet_0_1F80.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡011_material-032F995C
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1 
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡011_dg_gnn_ten_05_9D80.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡011_material-00AC6444
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1 
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡011_dg_gnn_tile_01_C780.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡011_material-0134BD7D
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1 
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡011_dg_gnn_kabe_06_3F00.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡011_material-03657B39
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1 
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡011_dg_gnn_yuka_08_1ED00.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡011_material-0235BE6D
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1 
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡011_dg_gnn_ware_03_11600.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡011_material-03E3B1DB
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1  
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡011_dg_gnn_ware_04_11880.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡011_material-01AFF498
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1 
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡011_dg_gnn_kuda_02_7380.png
+			}
+		}
+
+	}
+
+}

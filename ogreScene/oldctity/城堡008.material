@@ -1,0 +1,199 @@
+
+material 城堡008_material-02E3EFD1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡008_dg_gnn_mark_hik_E700.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡008_material-016D2525
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1
+			cull_hardware none
+			texture_unit
+			{
+				texture 城堡008_dg_gnn_yuka_01_1C000.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡008_material-02F1EA34
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1
+				cull_hardware none
+			texture_unit
+			{
+				texture 城堡008_dg_gnn_gate_01_0.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡008_material-0315EC08
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1
+cull_hardware none
+			texture_unit
+			{
+				texture 城堡008_dg_gnn_ten_01_16B00.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡008_material-02813BD9
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1
+cull_hardware none
+			texture_unit
+			{
+				texture 城堡008_dg_gnn_gate_06_1500.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡008_material-01EFAECB
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1
+cull_hardware none
+			texture_unit
+			{
+				texture 城堡008_dg_gnn_tunagi_0_1BF00.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡008_material-03C54C4F
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1
+cull_hardware none
+			texture_unit
+			{
+				texture 城堡008_dg_gnn_ten_03_19500.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡008_material-00D64E4E
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1
+cull_hardware none
+			texture_unit
+			{
+				texture 城堡008_dg_gnn_yuka_03_26800.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡008_material-021EE156
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1
+cull_hardware none
+			texture_unit
+			{
+				texture 城堡008_dg_gnn_san_01_11700.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡008_material-028B1AA5
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1
+cull_hardware none
+			texture_unit
+			{
+				texture 城堡008_dg_gnn_kabe_09_3F00.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡008_material-02036E5E
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1
+cull_hardware none
+			texture_unit
+			{
+				texture 城堡008_dg_gnn_mark_lt0_10700.png
+			}
+		}
+
+	}
+
+}

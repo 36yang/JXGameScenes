@@ -1,0 +1,385 @@
+material "城堡018_material-011C093D"
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1 
+			cull_hardware none
+			diffuse 1 1 1 1
+			specular 0 0 0 0
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture "城堡018_dg_gnn_mark_tam_F780.png"
+				tex_coord_set 0
+				colour_op modulate
+				scale 1 1
+				scroll 0 0
+				rotate 0
+			}
+		}
+	}
+}
+material "城堡018_material-009BC2D3"
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1
+			cull_hardware none
+			diffuse 1 1 1 1
+			specular 0 0 0 0
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture "城堡018_dg_gnn_gate_01_3F80.png"
+				tex_coord_set 0
+				colour_op modulate
+				scale 1 1
+				scroll 0 0
+				rotate 0
+			}
+		}
+	}
+}
+material "城堡018_material-0388D5A1"
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1  
+			cull_hardware none
+			diffuse 1 1 1 1
+			specular 0 0 0 0
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture "城堡018_dg_gnn_tile_02_17600.png"
+				tex_coord_set 0
+				colour_op modulate
+				scale 1 1
+				scroll 0 0
+				rotate 0
+			}
+		}
+	}
+}
+material "城堡018_material-01D86AFB"
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1
+			cull_hardware none
+			diffuse 1 1 1 1
+			specular 0 0 0 0
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture "城堡018_dg_gnn_arch_02_3500.png"
+				tex_coord_set 0
+				colour_op modulate
+				scale 1 1
+				scroll 0 0
+				rotate 0
+			}
+		}
+	}
+}
+material "城堡018_material-02DF2854"
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1
+			cull_hardware none
+			diffuse 1 1 1 1
+			specular 0 0 0 0
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture "城堡018_dg_gnn_arch_01_0.png"
+				tex_coord_set 0
+				colour_op modulate
+				scale 1 1
+				scroll 0 0
+				rotate 0
+			}
+		}
+	}
+}
+material "城堡018_material-01DEEC83"
+{
+	technique
+	{
+		pass
+		{
+		
+			ambient 0.972549 0.956863 0.956863 1 
+			cull_hardware none
+			diffuse 1 1 1 1
+			specular 0 0 0 0
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture "城堡018_dg_gnn_ten_01_12200.png"
+				tex_coord_set 0
+				colour_op modulate
+				scale 1 1
+				scroll 0 0
+				rotate 0
+			}
+		}
+	}
+}
+material "城堡018_material-03FC2CF6"
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1
+			cull_hardware none
+			diffuse 1 1 1 1
+			specular 0 0 0 0
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture "城堡018_dg_gnn_kabe_04_B300.png"
+				tex_coord_set 0
+				colour_op modulate
+				scale 1 1
+				scroll 0 0
+				rotate 0
+			}
+		}
+	}
+}
+material "城堡018_material-0148A4E6"
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1 
+			cull_hardware none
+			diffuse 1 1 1 1
+			specular 0 0 0 0
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture "城堡018_dg_gnn_gate_06_7E80.png"
+				tex_coord_set 0
+				colour_op modulate
+				scale 1 1
+				scroll 0 0
+				rotate 0
+			}
+		}
+	}
+}
+material "城堡018_material-03CF82B1"
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1 
+			cull_hardware none
+			diffuse 1 1 1 1
+			specular 0 0 0 0
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture "城堡018_dg_gnn_tunagi_0_18B00.png"
+				tex_coord_set 0
+				colour_op modulate
+				scale 1 1
+				scroll 0 0
+				rotate 0
+			}
+		}
+	}
+}
+material "城堡018_material-038DCC1B"
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1  
+			cull_hardware none
+			diffuse 1 1 1 1
+			specular 0 0 0 0
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture "城堡018_dg_gnn_hari_01_A880.png"
+				tex_coord_set 0
+				colour_op modulate
+				scale 1 1
+				scroll 0 0
+				rotate 0
+			}
+		}
+	}
+}
+material "城堡018_material-01FC532B"
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1 
+			cull_hardware none
+			diffuse 1 1 1 1
+			specular 0 0 0 0
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture "城堡018_dg_gnn_shoku_01_11780.png"
+				tex_coord_set 0
+				colour_op modulate
+				scale 1 1
+				scroll 0 0
+				rotate 0
+			}
+		}
+	}
+}
+material "城堡018_material-024B9840"
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1  
+			cull_hardware none
+			diffuse 1 1 1 1
+			specular 0 0 0 0
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture "城堡018_dg_gnn_yuka_02_18C00.png"
+				tex_coord_set 0
+				colour_op modulate
+				scale 1 1
+				scroll 0 0
+				rotate 0
+			}
+		}
+	}
+}
+material "城堡018_material-00D650A0"
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1 
+			cull_hardware none
+			diffuse 1 1 1 1
+			specular 0 0 0 0
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture "城堡018_dg_gnn_ten_04_14C00.png"
+				tex_coord_set 0
+				colour_op modulate
+				scale 1 1
+				scroll 0 0
+				rotate 0
+			}
+		}
+	}
+}
+material "城堡018_material-03DD94A8"
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1
+			cull_hardware none
+			diffuse 1 1 1 1
+			specular 0 0 0 0
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture "城堡018_dg_gnn_koushi_0_DD00.png"
+				tex_coord_set 0
+				colour_op modulate
+				scale 1 1
+				scroll 0 0
+				rotate 0
+			}
+		}
+	}
+}
+material "城堡018_material-0179D96E"
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1  
+			cull_hardware none
+			diffuse 1 1 1 1
+			specular 0 0 0 0
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture "城堡018_dg_gnn_gate_03_5480.png"
+				tex_coord_set 0
+				colour_op modulate
+				scale 1 1
+				scroll 0 0
+				rotate 0
+			}
+		}
+	}
+}
+material "城堡018_material-02CA39EA"
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1  
+			cull_hardware none
+			diffuse 1 1 1 1
+			specular 0 0 0 0
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture "城堡018_dg_gnn_mark_lt0_E780.png"
+				tex_coord_set 0
+				colour_op modulate
+				scale 1 1
+				scroll 0 0
+				rotate 0
+			}
+		}
+	}
+}

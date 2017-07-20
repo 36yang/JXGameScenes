@@ -1,0 +1,228 @@
+
+material 城堡005_material-033C24AD
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.960784 0.933333 0.933333 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡005_dg_gnn_yuka_01_14A80.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡005_material-01BA5E38
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.960784 0.933333 0.933333 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡005_dg_gnn_gate_01_7380.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡005_material-00AE91D5
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.960784 0.933333 0.933333 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡005_dg_gnn_tile_02_13080.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡005_material-0081D5FD
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.960784 0.933333 0.933333 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡005_dg_gnn_arch_02_1500.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡005_material-032ADEE3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.960784 0.933333 0.933333 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡005_dg_gnn_arch_01_0.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡005_material-0168BADE
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.960784 0.933333 0.933333 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡005_dg_gnn_ten_01_10680.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡005_material-03B64DA6
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.960784 0.933333 0.933333 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡005_dg_gnn_kabe_04_DC80.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡005_material-009085E7
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.960784 0.933333 0.933333 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡005_dg_gnn_carpet_0_1F80.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡005_material-03F7CFBD
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.960784 0.933333 0.933333 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡005_dg_gnn_gate_05_B280.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡005_material-02232085
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.960784 0.933333 0.933333 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡005_dg_gnn_tile_04_14580.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡005_material-038D4FF8
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.960784 0.933333 0.933333 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡005_dg_gnn_gate_04_8880.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡005_material-0114B522
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.960784 0.933333 0.933333 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡005_dg_gnn_carpet_0_4980.png
+			}
+		}
+
+	}
+
+}

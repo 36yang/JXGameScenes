@@ -1,0 +1,175 @@
+logfilename: D:/Work/U3dWork/GameScenes/Assets/Editor/FbxToMesh-log.txt
+animation name: BaseFBXFileAnim
+fbx file: D:/Work/U3dWork/GameScenes/ogreScene/oldctity/城堡017.FBX
+FBX SDK version number: 7.4.0
+FBX file version number: 7.2.0
+copyUniqueTextures: true
+Bind frame specified: 0. FBX bind pose information will be ignored.
+Mesh file: D:\Work\U3dWork\GameScenes\ogreScene\oldctity\城堡017.mesh
+Exporting bind pose.
+Finished exporting bind pose.
+Adding parents of high priority bones.
+Adding low priority bones.  They won't impact the mesh, but perhaps useful to in-game systems.
+Finished adding low priority bones.
+Adding parents of existing bones.
+Finished adding parents of existing bones.
+Sorting and pruning joints.
+Finished sorting and pruning joints.
+Calculating local transforms.
+Calculating local transforms for skeleton bones.
+Finished calculating local transforms.
+Turning SKELETON export off because there are no bones.
+Exporting mesh node-02EA2139...
+Mesh node-02EA2139 has globalTransform:Pos( 0.000000, 4451.321320, 11830.998779 ), Quat( 0.000000, 1.000000, 0.000000, 0.000000), Scale(10.000000, 10.000000, 10.000000)
+Num vertices: 2352
+Counter clockwise normals detected.
+Iterate over mesh faces
+num polygons = 120
+done reading mesh triangles
+Rigidly skinned unweighted vertices of mesh node-02EA2139 to joint with index 0 because it was unskinned and had no joints as parents.
+Create list of shared vertices
+done creating vertices list
+ERRORBOXWARNING: Could not locate texture dg_gnn_gate_01_2A00.png.  Try placing it in the FBX file's folder.
+.Warning: Could not locate texture D:\Work\U3dWork\GameScenes\ogreScene\oldctity\鍩庡牎017.fbm/dg_gnn_gate_01_2A00.png for material 城堡017_material-03A09E05.
+.Loading submesh associated to material: 城堡017_material-03A09E05 ...
+DONE
+Exporting mesh node-023B2B03...
+Mesh node-023B2B03 has globalTransform:Pos( 0.000000, 4451.321320, 11830.998779 ), Quat( 0.000000, 1.000000, 0.000000, 0.000000), Scale(10.000000, 10.000000, 10.000000)
+Num vertices: 2132
+Counter clockwise normals detected.
+Iterate over mesh faces
+num polygons = 60
+done reading mesh triangles
+Rigidly skinned unweighted vertices of mesh node-023B2B03 to joint with index 0 because it was unskinned and had no joints as parents.
+Create list of shared vertices
+done creating vertices list
+ERRORBOXWARNING: Could not locate texture dg_gnn_tile_02_A800.png.  Try placing it in the FBX file's folder.
+.Warning: Could not locate texture D:\Work\U3dWork\GameScenes\ogreScene\oldctity\鍩庡牎017.fbm/dg_gnn_tile_02_A800.png for material 城堡017_material-03015FE9.
+.Loading submesh associated to material: 城堡017_material-03015FE9 ...
+DONE
+Exporting mesh node-0014831D...
+Mesh node-0014831D has globalTransform:Pos( 0.000000, 4451.321320, 11830.998779 ), Quat( 0.000000, 1.000000, 0.000000, 0.000000), Scale(10.000000, 10.000000, 10.000000)
+Num vertices: 2052
+Counter clockwise normals detected.
+Iterate over mesh faces
+num polygons = 40
+done reading mesh triangles
+Rigidly skinned unweighted vertices of mesh node-0014831D to joint with index 0 because it was unskinned and had no joints as parents.
+Create list of shared vertices
+done creating vertices list
+ERRORBOXWARNING: Could not locate texture dg_gnn_ten_01_7E00.png.  Try placing it in the FBX file's folder.
+.Warning: Could not locate texture D:\Work\U3dWork\GameScenes\ogreScene\oldctity\鍩庡牎017.fbm/dg_gnn_ten_01_7E00.png for material 城堡017_material-0371EE36.
+.Loading submesh associated to material: 城堡017_material-0371EE36 ...
+DONE
+Exporting mesh node-00B89C08...
+Mesh node-00B89C08 has globalTransform:Pos( 0.000000, 4451.321320, 11830.998779 ), Quat( 0.000000, 1.000000, 0.000000, 0.000000), Scale(10.000000, 10.000000, 10.000000)
+Num vertices: 2022
+Counter clockwise normals detected.
+Iterate over mesh faces
+num polygons = 186
+done reading mesh triangles
+Rigidly skinned unweighted vertices of mesh node-00B89C08 to joint with index 0 because it was unskinned and had no joints as parents.
+Create list of shared vertices
+done creating vertices list
+ERRORBOXWARNING: Could not locate texture dg_gnn_kabe_04_4980.png.  Try placing it in the FBX file's folder.
+.Warning: Could not locate texture D:\Work\U3dWork\GameScenes\ogreScene\oldctity\鍩庡牎017.fbm/dg_gnn_kabe_04_4980.png for material 城堡017_material-01D1FFC7.
+.Loading submesh associated to material: 城堡017_material-01D1FFC7 ...
+DONE
+Exporting mesh node-027D7C4E...
+Mesh node-027D7C4E has globalTransform:Pos( 0.000000, 4451.321320, 11830.998779 ), Quat( 0.000000, 1.000000, 0.000000, 0.000000), Scale(10.000000, 10.000000, 10.000000)
+Num vertices: 1877
+Counter clockwise normals detected.
+Iterate over mesh faces
+num polygons = 22
+done reading mesh triangles
+Rigidly skinned unweighted vertices of mesh node-027D7C4E to joint with index 0 because it was unskinned and had no joints as parents.
+Create list of shared vertices
+done creating vertices list
+ERRORBOXWARNING: Could not locate texture dg_gnn_carpet_0_0.png.  Try placing it in the FBX file's folder.
+.Warning: Could not locate texture D:\Work\U3dWork\GameScenes\ogreScene\oldctity\鍩庡牎017.fbm/dg_gnn_carpet_0_0.png for material 城堡017_material-03839FC7.
+.Loading submesh associated to material: 城堡017_material-03839FC7 ...
+DONE
+Exporting mesh node-02695EBE...
+Mesh node-02695EBE has globalTransform:Pos( 0.000000, 4451.321320, 11830.998779 ), Quat( 0.000000, 1.000000, 0.000000, 0.000000), Scale(10.000000, 10.000000, 10.000000)
+Num vertices: 1859
+Counter clockwise normals detected.
+Iterate over mesh faces
+num polygons = 1038
+done reading mesh triangles
+Rigidly skinned unweighted vertices of mesh node-02695EBE to joint with index 0 because it was unskinned and had no joints as parents.
+Create list of shared vertices
+done creating vertices list
+ERRORBOXWARNING: Could not locate texture dg_gnn_hari_01_3F00.png.  Try placing it in the FBX file's folder.
+.Warning: Could not locate texture D:\Work\U3dWork\GameScenes\ogreScene\oldctity\鍩庡牎017.fbm/dg_gnn_hari_01_3F00.png for material 城堡017_material-00A58E32.
+.Loading submesh associated to material: 城堡017_material-00A58E32 ...
+DONE
+Exporting mesh node-01B454B3...
+Mesh node-01B454B3 has globalTransform:Pos( 0.000000, 4451.321320, 11830.998779 ), Quat( 0.000000, 1.000000, 0.000000, 0.000000), Scale(10.000000, 10.000000, 10.000000)
+Num vertices: 735
+Counter clockwise normals detected.
+Iterate over mesh faces
+num polygons = 621
+done reading mesh triangles
+Rigidly skinned unweighted vertices of mesh node-01B454B3 to joint with index 0 because it was unskinned and had no joints as parents.
+Create list of shared vertices
+done creating vertices list
+ERRORBOXWARNING: Could not locate texture dg_gnn_shoku_01_7380.png.  Try placing it in the FBX file's folder.
+.Warning: Could not locate texture D:\Work\U3dWork\GameScenes\ogreScene\oldctity\鍩庡牎017.fbm/dg_gnn_shoku_01_7380.png for material 城堡017_material-0061FE06.
+.Loading submesh associated to material: 城堡017_material-0061FE06 ...
+DONE
+Exporting mesh node-0356FA4C...
+Mesh node-0356FA4C has globalTransform:Pos( 0.000000, 4451.321320, 11830.998779 ), Quat( 0.000000, 1.000000, 0.000000, 0.000000), Scale(10.000000, 10.000000, 10.000000)
+Num vertices: 126
+Counter clockwise normals detected.
+Iterate over mesh faces
+num polygons = 107
+done reading mesh triangles
+Rigidly skinned unweighted vertices of mesh node-0356FA4C to joint with index 0 because it was unskinned and had no joints as parents.
+Create list of shared vertices
+done creating vertices list
+ERRORBOXWARNING: Could not locate texture dg_gnn_yuka_02_BD00.png.  Try placing it in the FBX file's folder.
+.Warning: Could not locate texture D:\Work\U3dWork\GameScenes\ogreScene\oldctity\鍩庡牎017.fbm/dg_gnn_yuka_02_BD00.png for material 城堡017_material-030C5F39.
+.Loading submesh associated to material: 城堡017_material-030C5F39 ...
+DONE
+Exporting mesh node-020ECCB4...
+Mesh node-020ECCB4 has globalTransform:Pos( 0.000000, 4451.321320, 11830.998779 ), Quat( 0.000000, 1.000000, 0.000000, 0.000000), Scale(10.000000, 10.000000, 10.000000)
+Num vertices: 49
+Counter clockwise normals detected.
+Iterate over mesh faces
+num polygons = 28
+done reading mesh triangles
+Rigidly skinned unweighted vertices of mesh node-020ECCB4 to joint with index 0 because it was unskinned and had no joints as parents.
+Create list of shared vertices
+done creating vertices list
+ERRORBOXWARNING: Could not locate texture dg_gnn_yuka_06_E700.png.  Try placing it in the FBX file's folder.
+.Warning: Could not locate texture D:\Work\U3dWork\GameScenes\ogreScene\oldctity\鍩庡牎017.fbm/dg_gnn_yuka_06_E700.png for material 城堡017_material-036F5906.
+.Loading submesh associated to material: 城堡017_material-036F5906 ...
+DONE
+Loading blend shape poses...
+ANIMATION={"name": "BaseFBXFileAnim", "fps": 30.000000, "keys": []}
+Loading blend shape animations...
+Loading clip BaseFBXFileAnim.
+clip BaseFBXFileAnim
+length: 0.000000.
+Clip successfully loaded
+Loading skeleton animations...
+Loading clip BaseFBXFileAnim.
+Clip successfully loaded
+Loading clip BaseFBXFrame0Anim.
+Clip successfully loaded
+Skipping creation of pose animations because there are no blendshapes.
+Setting bounding box for mesh: (-12896.999023, 951.321411, 922.998535) (-3594.299805, 2951.321289, 10902.499023)
+Writing materials data...
+Copying texture: copy "D:\Work\U3dWork\GameScenes\ogreScene\oldctity\城堡017.fbm\dg_gnn_gate_01_2A00.png" "D:\Work\U3dWork\GameScenes\ogreScene\oldctity\城堡017_dg_gnn_gate_01_2A00.png"
+Copying texture: copy "D:\Work\U3dWork\GameScenes\ogreScene\oldctity\城堡017.fbm\dg_gnn_tile_02_A800.png" "D:\Work\U3dWork\GameScenes\ogreScene\oldctity\城堡017_dg_gnn_tile_02_A800.png"
+Copying texture: copy "D:\Work\U3dWork\GameScenes\ogreScene\oldctity\城堡017.fbm\dg_gnn_ten_01_7E00.png" "D:\Work\U3dWork\GameScenes\ogreScene\oldctity\城堡017_dg_gnn_ten_01_7E00.png"
+Copying texture: copy "D:\Work\U3dWork\GameScenes\ogreScene\oldctity\城堡017.fbm\dg_gnn_kabe_04_4980.png" "D:\Work\U3dWork\GameScenes\ogreScene\oldctity\城堡017_dg_gnn_kabe_04_4980.png"
+Copying texture: copy "D:\Work\U3dWork\GameScenes\ogreScene\oldctity\城堡017.fbm\dg_gnn_carpet_0_0.png" "D:\Work\U3dWork\GameScenes\ogreScene\oldctity\城堡017_dg_gnn_carpet_0_0.png"
+Copying texture: copy "D:\Work\U3dWork\GameScenes\ogreScene\oldctity\城堡017.fbm\dg_gnn_hari_01_3F00.png" "D:\Work\U3dWork\GameScenes\ogreScene\oldctity\城堡017_dg_gnn_hari_01_3F00.png"
+Copying texture: copy "D:\Work\U3dWork\GameScenes\ogreScene\oldctity\城堡017.fbm\dg_gnn_shoku_01_7380.png" "D:\Work\U3dWork\GameScenes\ogreScene\oldctity\城堡017_dg_gnn_shoku_01_7380.png"
+Copying texture: copy "D:\Work\U3dWork\GameScenes\ogreScene\oldctity\城堡017.fbm\dg_gnn_yuka_02_BD00.png" "D:\Work\U3dWork\GameScenes\ogreScene\oldctity\城堡017_dg_gnn_yuka_02_BD00.png"
+Copying texture: copy "D:\Work\U3dWork\GameScenes\ogreScene\oldctity\城堡017.fbm\dg_gnn_yuka_06_E700.png" "D:\Work\U3dWork\GameScenes\ogreScene\oldctity\城堡017_dg_gnn_yuka_06_E700.png"
+Deleting mesh...
+Deleting materials...
+Closing files...
+Completed OgreExporter::exportScene...

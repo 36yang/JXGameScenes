@@ -1,0 +1,209 @@
+
+material 城堡009_material-00F5E7C9
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.964706 0.960784 0.960784 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡009_dg_gnn_yuka_01_10780.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡009_material-01AC56FA
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1 
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡009_dg_gnn_gate_01_2A00.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡009_material-00EAEA8B
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1 
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡009_dg_gnn_ten_01_C780.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡009_material-03C3B0B9
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1 
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡009_dg_gnn_kabe_04_9300.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡009_material-02543632
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1  
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡009_dg_gnn_tunagi_0_10680.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡009_material-02687B71
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1 
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡009_dg_gnn_carpet_0_0.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡009_material-00A52616
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1 
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡009_dg_gnn_yuka_05__1AF80.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡009_material-01E13681
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1 
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡009_dg_gnn_shoku_01_BD00.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡009_material-030F0ED2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1  
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡009_dg_gnn_gate_02_3F00.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡009_material-03878569
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡009_dg_gnn_hashira__6900.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡009_material-00423EE9
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.956863 0.956863 1  
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡009_dg_gnn_tri_01_F180.png
+			}
+		}
+
+	}
+
+}

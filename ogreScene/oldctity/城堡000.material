@@ -1,0 +1,180 @@
+
+material 城堡000_material-01BE224C
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.960784 0.933333 0.933333 1
+			emissive 0.227451 0.219608 0.219608 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡000_dg_gnn_dai_02_3F00.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡000_material-03FF9CF3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.964706 0.901961 0.901961 1
+			emissive 0.188235 0.180392 0.180392 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡000_dg_gnn_yuka_01_12600.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡000_material-03AF34AF
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.972549 0.94902 0.94902 1
+			emissive 0.211765 0.207843 0.207843 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡000_dg_gnn_gate_01_5400.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡000_material-01554A53
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.815686 0.8 0.8 1
+			emissive 0.196078 0.188235 0.192157 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡000_dg_gnn_tile_02_11100.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡000_material-026FAB95
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.937255 0.894118 0.894118 1
+			emissive 0.207843 0.2 0.2 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡000_dg_gnn_ten_01_9300.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡000_material-018D68B8
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.984314 0.964706 0.964706 1
+			diffuse 0.913725 0.870588 0.870588 1
+			specular 0.0431373 0.0431373 0.0431373 1 0
+			emissive 0.219608 0.211765 0.211765 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡000_dg_gnn_carpet_0_0.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡000_material-0128DA2D
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.956863 0.858824 0.858824 1
+			emissive 0.203922 0.203922 0.203922 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡000_dg_gnn_kabe_04_6900.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡000_material-01ED0842
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.964706 0.94902 0.94902 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡000_dg_gnn_ten_02_BD00.png
+			}
+		}
+
+	}
+
+}
+
+material 城堡000_material-01F8AE7A
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.937255 0.901961 0.901961 1
+			cull_hardware none
+
+			texture_unit
+			{
+				texture 城堡000_dg_gnn_dai_01_2A00.png
+			}
+		}
+
+	}
+
+}
