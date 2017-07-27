@@ -87,8 +87,6 @@ public class TerrainGrid : MonoBehaviour {
         
         }
 
-        Debug.LogError("OnGUI");
-
     }
 
 
