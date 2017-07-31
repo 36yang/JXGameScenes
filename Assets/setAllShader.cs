@@ -12,8 +12,8 @@ public class setAllShader : MonoBehaviour {
             MeshRenderer mr = obj.GetComponent<MeshRenderer>();
             if (mr != null) 
             {
-               // mr.sharedMaterial.shader = Shader.Find("Custom/defaultShader");
-                obj.AddComponent<MeshCollider>();
+                mr.sharedMaterial.shader = Shader.Find("Custom/defaultShader");
+                //obj.AddComponent<MeshCollider>();
             }
         }
 
