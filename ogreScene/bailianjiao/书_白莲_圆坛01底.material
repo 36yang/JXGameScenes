@@ -1,0 +1,74 @@
+
+material Êé_°×Á«_Ô²Ì³01µ×
+{
+	technique
+	{
+		pass
+		{
+
+
+			texture_unit
+			{
+				texture Êé_°×Á«_Â¥ÌÝ01.dds
+			}
+		}
+
+	}
+
+}
+
+material Êé_°×Á«_Ô²Ì³01µ×2
+{
+	technique
+	{
+		pass
+		{
+
+			scene_blend alpha_blend
+			alpha_rejection greater 128
+
+			texture_unit
+			{
+				texture Êé_°×Á«_À¸¸Ë01.dds
+			}
+		}
+
+	}
+
+}
+
+material Êé_°×Á«_Ô²Ì³01µ×3
+{
+	technique
+	{
+		pass
+		{
+
+
+			texture_unit
+			{
+				texture Êé_°×Á«_µØÃæ02.dds
+			}
+		}
+
+	}
+
+}
+
+material Êé_°×Á«_Ô²Ì³01µ×4
+{
+	technique
+	{
+		pass
+		{
+
+
+			texture_unit
+			{
+				texture Êé_°×Á«_Ç½01.dds
+			}
+		}
+
+	}
+
+}

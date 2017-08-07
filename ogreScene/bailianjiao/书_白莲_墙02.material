@@ -1,0 +1,17 @@
+
+material Êé_°×Á«_Ç½021
+{
+	technique
+	{
+		pass
+		{
+
+			texture_unit
+			{
+				texture Êé_°×Á«_Ç½01.dds
+			}
+		}
+
+	}
+
+}

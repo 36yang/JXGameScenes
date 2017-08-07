@@ -1,0 +1,148 @@
+
+material 书_白莲教_大门013
+{
+	technique
+	{
+		pass
+		{
+emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture 书_白莲教_大门飞碟.DDS
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_大门012
+{
+	technique
+	{
+		pass
+		{
+emissive 0.3 0.3 0.3 1
+
+			texture_unit
+			{
+				texture 书_白莲教_大门梁.DDS
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_大门014
+{
+	technique
+	{
+		pass
+		{
+emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture 书_白莲教_大门墙01.DDS
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_大门015
+{
+	technique
+	{
+		pass
+		{
+emissive 0.3 0.3 0.3 1
+
+			texture_unit
+			{
+				texture 书_白莲教_大门墙02.DDS
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_大门016
+{
+	technique
+	{
+		pass
+		{
+emissive 0.3 0.3 0.3 1
+
+			texture_unit
+			{
+				texture 书_白莲教_大门墙03.DDS
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_大门017
+{
+	technique
+	{
+		pass
+		{
+emissive 1 1 1 1
+			scene_blend alpha_blend
+			alpha_rejection greater 128
+
+			texture_unit
+			{
+				texture 书_白莲教_女妖.DDS
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_大门018
+{
+	technique
+	{
+		pass
+		{
+emissive 1 1 1 1
+			scene_blend alpha_blend
+			alpha_rejection greater 128
+
+			texture_unit
+			{
+				texture 书_白莲教_帘子.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_大门011
+{
+	technique
+	{
+		pass
+		{
+emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture 书_白莲教_大门瓦.DDS
+			}
+		}
+
+	}
+
+}

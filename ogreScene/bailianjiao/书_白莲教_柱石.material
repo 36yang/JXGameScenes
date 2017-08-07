@@ -1,0 +1,87 @@
+
+material 书_白莲教_柱石2
+{
+	technique
+	{
+		pass
+		{
+
+			texture_unit
+			{
+				texture 书_白莲教_柱石01.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_柱石3
+{
+	technique
+	{
+		pass
+		{
+
+			texture_unit
+			{
+				texture 书_白莲教_柱石02.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_柱石4
+{
+	technique
+	{
+		pass
+		{
+
+			texture_unit
+			{
+				texture 书_白莲教_柱子02.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_柱石5
+{
+	technique
+	{
+		pass
+		{
+			scene_blend alpha_blend
+			alpha_rejection greater 128
+
+			texture_unit
+			{
+				texture 书_白莲教_柱条.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_柱石
+{
+	technique
+	{
+		pass
+		{
+
+			texture_unit
+			{
+				texture 书_白莲教_柱石03.dds
+			}
+		}
+
+	}
+
+}

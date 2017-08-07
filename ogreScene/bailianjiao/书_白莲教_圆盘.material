@@ -1,0 +1,90 @@
+
+material 书_白莲教_圆盘02
+{
+	technique
+	{
+		pass
+		{
+
+
+			texture_unit
+			{
+				texture 书_白莲_楼梯01.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_圆盘01
+{
+	technique
+	{
+		pass
+		{
+
+
+			texture_unit
+			{
+				texture 书_白莲_圆盘.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_圆盘03
+{
+	technique
+	{
+		pass
+		{
+
+
+			texture_unit
+			{
+				texture 书_白莲_地面02.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_圆盘04
+{
+	technique
+	{
+		pass
+		{
+
+
+			texture_unit
+			{
+				texture 书_白莲_墙01.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_圆盘05
+{
+	technique
+	{
+		pass
+		{
+
+
+			texture_unit
+			{
+				texture 书_白莲_圆盘01.dds
+			}
+		}
+
+	}
+
+}

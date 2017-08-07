@@ -1,0 +1,34 @@
+
+material Êé_°×Á«_Â¥ÌÝ011
+{
+	technique
+	{
+		pass
+		{
+
+			texture_unit
+			{
+				texture Êé_°×Á«_Ç½01.dds
+			}
+		}
+
+	}
+
+}
+
+material Êé_°×Á«_Â¥ÌÝ012
+{
+	technique
+	{
+		pass
+		{
+
+			texture_unit
+			{
+				texture Êé_°×Á«_Â¥ÌÝ02.dds
+			}
+		}
+
+	}
+
+}

@@ -1,0 +1,146 @@
+
+material 书_白莲教_城门022
+{
+	technique
+	{
+		pass
+		{
+			emissive 0.3 0.3 0.3 1
+
+			texture_unit
+			{
+				texture 书_白连教_杂物.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_城门024
+{
+	technique
+	{
+		pass
+		{
+			emissive 0.3 0.3 0.3 1
+
+			texture_unit
+			{
+				texture 书_白莲教_城门.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_城门025
+{
+	technique
+	{
+		pass
+		{
+			emissive 0.3 0.3 0.3 1
+			scene_blend alpha_blend
+			alpha_rejection greater 128
+
+			texture_unit
+			{
+				texture 书_白莲教_门洞.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_城门026
+{
+	technique
+	{
+		pass
+		{
+			emissive 0.3 0.3 0.3 1
+
+			texture_unit
+			{
+				texture 书_白莲教_墙.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_城门027
+{
+	technique
+	{
+		pass
+		{
+			emissive 0.3 0.3 0.3 1
+
+			texture_unit
+			{
+				texture 书_白莲教_墙_02.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_城门028
+{
+	technique
+	{
+		pass
+		{
+			emissive 0.3 0.3 0.3 1
+
+			texture_unit
+			{
+				texture 书_青龙分舵_瓦_01.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_城门029
+{
+	technique
+	{
+		pass
+		{
+			emissive 0.3 0.3 0.3 1
+
+			texture_unit
+			{
+				texture 书_少林寺_门01.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_城门0210
+{
+	technique
+	{
+		pass
+		{
+			emissive 0.3 0.3 0.3 1
+
+			texture_unit
+			{
+				texture 书_少林寺_木头.dds
+			}
+		}
+
+	}
+
+}

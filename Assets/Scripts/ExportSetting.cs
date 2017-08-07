@@ -9,7 +9,16 @@ public class ExportSetting : MonoBehaviour {
         模型,
         声音,
         碰撞体,
+        水面,
         空节点
+    }
+
+    public enum WaterType
+    {
+        普通纹理 = 0,
+        菲涅尔书面简化反射,
+        菲涅尔水面反射,
+        菲涅尔水面反射和折射
     }
 
 
@@ -18,6 +27,8 @@ public class ExportSetting : MonoBehaviour {
     public int 数字标记 = -1;
     public SceneObjType 物体类型;
     public bool 模型z轴修正 = false;
+    public WaterType 水面质量;
+    public string 水面材质名;
 
     private int id;  //用来唯一标识一个物体，以确定父子关系
 

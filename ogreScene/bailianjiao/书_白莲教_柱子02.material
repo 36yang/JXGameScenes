@@ -1,0 +1,36 @@
+
+material 书_白莲教_柱子022
+{
+	technique
+	{
+		pass
+		{
+emissive 0.4 0.4 0.4 1
+
+			texture_unit
+			{
+				texture 书_白莲教_柱子02.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_柱子021
+{
+	technique
+	{
+		pass
+		{
+emissive 0.4 0.4 0.4 1
+
+			texture_unit
+			{
+				texture 书_白莲教_柱子03.dds
+			}
+		}
+
+	}
+
+}

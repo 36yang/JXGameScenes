@@ -1,0 +1,40 @@
+
+material 书_白莲教_石柱02
+{
+	technique
+	{
+		pass
+		{
+
+emissive 0.4 0.4 0.4 1
+
+			texture_unit
+			{
+				texture 书_白莲教_石头01.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_石柱01
+{
+	technique
+	{
+		pass
+		{
+
+emissive 0.4 0.4 0.4 1
+			scene_blend alpha_blend
+			alpha_rejection greater 128
+
+			texture_unit
+			{
+				texture 书_白莲教_柱子.dds
+			}
+		}
+
+	}
+
+}

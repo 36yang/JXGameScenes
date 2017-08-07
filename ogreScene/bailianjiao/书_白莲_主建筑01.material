@@ -1,0 +1,216 @@
+
+material 书_白莲_主建筑011
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+			scene_blend alpha_blend
+			alpha_rejection greater 128
+
+			texture_unit
+			{
+				texture 书_白莲教_女妖.DDS
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲_主建筑012
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture 书_白莲教_墙_01.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲_主建筑013
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture 书_白莲教_大门墙05.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲_主建筑014
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture 书_白莲教_大门墙04.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲_主建筑015
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture 书_白莲教_大门墙09.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲_主建筑016
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture 书_白莲教_大门墙08.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲_主建筑017
+{
+	technique
+	{
+		pass
+		{
+			emissive 0.3 0.3 0.3 1
+
+			texture_unit
+			{
+				texture 书_白莲_墙01.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲_主建筑0110
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture 书_白莲教_墙_02.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲_主建筑018
+{
+	technique
+	{
+		pass
+		{
+			emissive 0.3 0.3 0.3 1
+
+			texture_unit
+			{
+				texture 书_白莲_楼梯03.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲_主建筑019
+{
+	technique
+	{
+		pass
+		{
+			emissive 0.3 0.3 0.3 1
+
+			texture_unit
+			{
+				texture 书_白莲_楼梯02.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲_主建筑0111
+{
+	technique
+	{
+		pass
+		{
+
+			texture_unit
+			{
+				texture 书_白莲教_墙.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲_主建筑0112
+{
+	technique
+	{
+		pass
+		{
+
+			texture_unit
+			{
+				texture 书_白莲教_城门.dds
+			}
+		}
+
+	}
+
+}

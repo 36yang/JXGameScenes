@@ -1,0 +1,54 @@
+
+material 书_白莲_石头021
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture 书_白莲_石头01.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲_石头022
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture 书_白莲_石头02.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲_石头02
+{
+	technique
+	{
+		pass
+		{
+			emissive 0.3 0.3 0.3 1
+
+			texture_unit
+			{
+				texture 书_白莲_石头03.dds
+			}
+		}
+
+	}
+
+}

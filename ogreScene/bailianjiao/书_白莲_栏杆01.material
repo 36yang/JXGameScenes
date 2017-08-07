@@ -1,0 +1,19 @@
+
+material Êé_°×Á«_À¸¸Ë011
+{
+	technique
+	{
+		pass
+		{
+			scene_blend alpha_blend
+			alpha_rejection greater 128
+
+			texture_unit
+			{
+				texture Êé_°×Á«_À¸¸Ë01.dds
+			}
+		}
+
+	}
+
+}

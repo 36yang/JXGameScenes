@@ -1,0 +1,18 @@
+
+material 书_白莲_石头031
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture 书_白莲_石头02.dds
+			}
+		}
+
+	}
+
+}

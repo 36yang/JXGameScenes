@@ -1,0 +1,88 @@
+
+material 书_白莲教_帘子06
+{
+	technique
+	{
+		pass
+		{
+
+			texture_unit
+			{
+				texture 书_白莲_圆盘01.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_帘子02
+{
+	technique
+	{
+		pass
+		{
+
+			texture_unit
+			{
+				texture 书_白莲_圆盘.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_帘子04
+{
+	technique
+	{
+		pass
+		{
+
+			texture_unit
+			{
+				texture 书_白莲_地面02.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_帘子05
+{
+	technique
+	{
+		pass
+		{
+
+			texture_unit
+			{
+				texture 书_白莲_墙01.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_帘子01
+{
+	technique
+	{
+		pass
+		{
+emissive 0.3 0.3 0.3 1
+			scene_blend alpha_blend
+			alpha_rejection greater 128
+
+			texture_unit
+			{
+				texture 书_白莲教_平台.dds
+			}
+		}
+
+	}
+
+}

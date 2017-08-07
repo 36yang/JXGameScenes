@@ -1,0 +1,17 @@
+
+material 书_白莲_主建筑061
+{
+	technique
+	{
+		pass
+		{
+
+			texture_unit
+			{
+				texture 书_白莲教_大门飞碟.DDS
+			}
+		}
+
+	}
+
+}

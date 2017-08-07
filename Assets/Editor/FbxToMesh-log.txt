@@ -1,11 +1,11 @@
 logfilename: D:/Work/U3dWork/GameScenes/JXGameScenes/Assets/Editor/FbxToMesh-log.txt
 animation name: BaseFBXFileAnim
-fbx file: D:/Work/U3dWork/GameScenes/JXGameScenes/ogreScene/bailianjiao/书_白莲教_石柱.FBX
+fbx file: D:/Work/U3dWork/GameScenes/JXGameScenes/ogreScene/bailianjiao/WaterPlane.fbx
 FBX SDK version number: 7.4.0
-FBX file version number: 7.2.0
+FBX file version number: 7.3.0
 copyUniqueTextures: true
 Bind frame specified: 0. FBX bind pose information will be ignored.
-Mesh file: D:\Work\U3dWork\GameScenes\JXGameScenes\ogreScene\bailianjiao\书_白莲教_石柱.mesh
+Mesh file: D:\Work\U3dWork\GameScenes\JXGameScenes\ogreScene\bailianjiao\WaterPlane.mesh
 Exporting bind pose.
 Finished exporting bind pose.
 Adding parents of high priority bones.
@@ -19,33 +19,17 @@ Calculating local transforms.
 Calculating local transforms for skeleton bones.
 Finished calculating local transforms.
 Turning SKELETON export off because there are no bones.
-Exporting mesh submesh1...
-Mesh submesh1 has globalTransform:Pos( 0.000000, 0.000000, 0.000000 ), Quat( 1.000000, 0.000000, 0.000000, 0.000000), Scale(10.000000, 10.000000, 10.000000)
-Num vertices: 352
+Exporting mesh waterPlaneMesh...
+Mesh waterPlaneMesh has globalTransform:Pos( 0.000000, 0.000000, 0.000000 ), Quat( 1.000000, 0.000000, 0.000000, 0.000000), Scale(1.000000, 1.000000, 1.000000)
+Num vertices: 57
 Counter clockwise normals detected.
 Iterate over mesh faces
-num polygons = 272
+num polygons = 80
 done reading mesh triangles
-Rigidly skinned unweighted vertices of mesh submesh1 to joint with index 0 because it was unskinned and had no joints as parents.
+Rigidly skinned unweighted vertices of mesh waterPlaneMesh to joint with index 0 because it was unskinned and had no joints as parents.
 Create list of shared vertices
 done creating vertices list
-ERRORBOXWARNING: Could not locate texture 涔鐧借幉鏁檁鏌卞瓙.dds.  Try placing it in the FBX file's folder.
-.Warning: Could not locate texture D:\Work\U3dWork\GameScenes\JXGameScenes\ogreScene\bailianjiao\涔鐧借幉鏁檁鐭虫煴.fbm/涔鐧借幉鏁檁鏌卞瓙.dds for material 书_白莲教_石柱_涔鐧借幉鏁檁鐭虫煴01.
-.Loading submesh associated to material: 书_白莲教_石柱_涔鐧借幉鏁檁鐭虫煴01 ...
-DONE
-Exporting mesh submesh0...
-Mesh submesh0 has globalTransform:Pos( 0.000000, 0.000000, 0.000000 ), Quat( 1.000000, 0.000000, 0.000000, 0.000000), Scale(10.000000, 10.000000, 10.000000)
-Num vertices: 68
-Counter clockwise normals detected.
-Iterate over mesh faces
-num polygons = 34
-done reading mesh triangles
-Rigidly skinned unweighted vertices of mesh submesh0 to joint with index 0 because it was unskinned and had no joints as parents.
-Create list of shared vertices
-done creating vertices list
-ERRORBOXWARNING: Could not locate texture 涔鐧借幉鏁檁鐭冲ご01.dds.  Try placing it in the FBX file's folder.
-.Warning: Could not locate texture D:\Work\U3dWork\GameScenes\JXGameScenes\ogreScene\bailianjiao\涔鐧借幉鏁檁鐭虫煴.fbm/涔鐧借幉鏁檁鐭冲ご01.dds for material 书_白莲教_石柱_涔鐧借幉鏁檁鐭虫煴02.
-.Loading submesh associated to material: 书_白莲教_石柱_涔鐧借幉鏁檁鐭虫煴02 ...
+Loading submesh associated to material: WaterPlane_WaterPlaneMaterial ...
 DONE
 Loading blend shape poses...
 ANIMATION={"name": "BaseFBXFileAnim", "fps": 30.000000, "keys": []}
@@ -60,10 +44,8 @@ Clip successfully loaded
 Loading clip BaseFBXFrame0Anim.
 Clip successfully loaded
 Skipping creation of pose animations because there are no blendshapes.
-Setting bounding box for mesh: (-929.371216, 138.553711, -630.244934) (930.008667, 4389.809570, 587.593567)
+Setting bounding box for mesh: (-0.999999, 0.000000, -0.999999) (1.000000, 0.000000, 1.000000)
 Writing materials data...
-Copying texture: copy "D:\Work\U3dWork\GameScenes\JXGameScenes\ogreScene\bailianjiao\书_白莲教_石柱.fbm\书_白莲教_柱子.dds" "D:\Work\U3dWork\GameScenes\JXGameScenes\ogreScene\bailianjiao\书_白莲教_石柱_书_白莲教_柱子.dds"
-Copying texture: copy "D:\Work\U3dWork\GameScenes\JXGameScenes\ogreScene\bailianjiao\书_白莲教_石柱.fbm\书_白莲教_石头01.dds" "D:\Work\U3dWork\GameScenes\JXGameScenes\ogreScene\bailianjiao\书_白莲教_石柱_书_白莲教_石头01.dds"
 Deleting mesh...
 Deleting materials...
 Closing files...

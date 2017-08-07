@@ -1,0 +1,92 @@
+
+material 书_白莲教_桥022
+{
+	technique
+	{
+		pass
+		{
+
+
+			texture_unit
+			{
+				texture 书_白莲教_石头02.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_桥023
+{
+	technique
+	{
+		pass
+		{
+
+			scene_blend alpha_blend
+			alpha_rejection greater 128
+
+			texture_unit
+			{
+				texture 书_白莲教_柱子.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_桥025
+{
+	technique
+	{
+		pass
+		{
+
+
+			texture_unit
+			{
+				texture 书_白莲教_石头03.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_桥024
+{
+	technique
+	{
+		pass
+		{
+
+
+			texture_unit
+			{
+				texture 书_白莲教_桥地面.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲教_桥021
+{
+	technique
+	{
+		pass
+		{
+
+
+			texture_unit
+			{
+				texture 书_白莲教_石头01.dds
+			}
+		}
+
+	}
+
+}

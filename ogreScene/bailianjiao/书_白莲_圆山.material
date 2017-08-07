@@ -1,0 +1,17 @@
+
+material 书_白莲_圆山1
+{
+	technique
+	{
+		pass
+		{
+
+			texture_unit
+			{
+				texture 书_白莲_山体.dds
+			}
+		}
+
+	}
+
+}

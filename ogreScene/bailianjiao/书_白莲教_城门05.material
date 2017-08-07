@@ -1,0 +1,18 @@
+
+material 书_白莲教_城门05
+{
+	technique
+	{
+		pass
+		{
+			emissive 0.3 0.3 0.3 1
+
+			texture_unit
+			{
+				texture 书_白莲教_墙_01.dds
+			}
+		}
+
+	}
+
+}

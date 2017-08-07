@@ -1,0 +1,34 @@
+
+material 书_白莲_圆山内部1
+{
+	technique
+	{
+		pass
+		{
+
+			texture_unit
+			{
+				texture 书_白莲_佛图01.dds
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲_圆山内部2
+{
+	technique
+	{
+		pass
+		{
+
+			texture_unit
+			{
+				texture 书_白莲_佛图.dds
+			}
+		}
+
+	}
+
+}

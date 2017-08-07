@@ -1,0 +1,36 @@
+
+material 书_白莲_主建筑052
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture 书_白莲教_大门梁.DDS
+			}
+		}
+
+	}
+
+}
+
+material 书_白莲_主建筑051
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture 书_白莲教_大门飞碟.DDS
+			}
+		}
+
+	}
+
+}

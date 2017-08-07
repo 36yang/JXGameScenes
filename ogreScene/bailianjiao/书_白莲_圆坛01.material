@@ -1,0 +1,128 @@
+
+material Êé_°×Á«_Ô²Ì³014
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+			scene_blend alpha_blend
+			alpha_rejection greater 128
+
+			texture_unit
+			{
+				texture Êé_°×Á«_ÎÝéÜ01.dds
+			}
+		}
+
+	}
+
+}
+
+material Êé_°×Á«_Ô²Ì³017
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture Êé_°×Á«_µØÃæ01.dds
+			}
+		}
+
+	}
+
+}
+
+material Êé_°×Á«_Ô²Ì³016
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture Êé_°×Á«_´°»§01.dds
+			}
+		}
+
+	}
+
+}
+
+material Êé_°×Á«_Ô²Ì³018
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture Êé_°×Á«_Í¤×Ó01.dds
+			}
+		}
+
+	}
+
+}
+
+material Êé_°×Á«_Ô²Ì³019
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture Êé_°×Á«_Íß01.dds
+			}
+		}
+
+	}
+
+}
+
+material Êé_°×Á«_Ô²Ì³01
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture Êé_°×Á«_Â¥ÌÝ01.dds
+			}
+		}
+
+	}
+
+}
+
+material Êé_°×Á«_Ô²Ì³013
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture Êé_°×Á«_Ç½01.dds
+			}
+		}
+
+	}
+
+}
