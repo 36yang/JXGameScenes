@@ -1,0 +1,37 @@
+
+material ·ãÒ¶Ê÷052
+{
+	technique
+	{
+		pass
+		{
+emissive 0.2 0.2 0.2 1
+	
+			alpha_rejection greater 128
+
+			texture_unit
+			{
+				texture ·ãÒ¶Ê÷02.dds
+			}
+		}
+
+	}
+
+}
+
+material ·ãÒ¶Ê÷05
+{
+	technique
+	{
+		pass
+		{
+
+			texture_unit
+			{
+				texture ·ãÒ¶Ê÷Ê÷Æ¤.dds
+			}
+		}
+
+	}
+
+}
